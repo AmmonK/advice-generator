@@ -1,0 +1,19 @@
+// setup a local git repository
+git init
+
+.gitignore file
+/node_modules
+
+// add all of our files
+git add .
+
+// make changes to local repository
+git commit -m "message"
+
+github.com <- make a repository
+
+// hook up to remote repository
+git remote add origin https://github.com/username/repo.git
+
+// push changes
+git push -u origin master
