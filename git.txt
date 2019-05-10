@@ -1,3 +1,5 @@
+ammon is awesome
+
 // setup a local git repository
 git init
 
